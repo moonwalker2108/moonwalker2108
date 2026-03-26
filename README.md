@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jil-burton-banner.png" width="100%" />
+  <img src="jil-burton-banner.png.PNG" width="100%" />
 </p>
 
 <h1 align="center">💜 Hi, I'm Jil Burton</h1>
