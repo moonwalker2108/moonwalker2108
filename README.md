@@ -20,15 +20,20 @@
 
 ---
 
+  
+
+---
 ## 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,github" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-7F3FBF?style=for-the-badge&logo=tableau&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Power%20BI-7F3FBF?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 </p>
 
+
 ![SQL](https://img.shields.io/badge/SQL-Analytics-6f42c1?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-8a63d2?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-b089f0?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Reporting-a770ef?style=for-the-badge)
 
 ---
