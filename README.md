@@ -26,9 +26,10 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="42" height="42"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42"/>
+  <img src="python.png" width="48"/>
+  <img src="github.png" width="48"/>
+  <img src="tableau.png" width="48"/>
+  <img src="powerbi.png" width="48"/>
 </p>
 
 <p align="center">
