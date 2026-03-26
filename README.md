@@ -69,7 +69,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7f3fbf?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jil-burton-dataanalyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7f3fbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jil-burton-dataanalyst)
 <a href="mailto:jil.burton88@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
