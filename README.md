@@ -26,18 +26,19 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github" /><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=python,github" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42"/>
 </p>
 
 <p align="center">
-  Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-6f42c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-Reporting-7c4dff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Healthcare-Analytics-9d6bff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Insights-c7a4ff?style=for-the-badge"/>
 </p>
 <p align="center">
-![SQL](https://img.shields.io/badge/SQL-Analytics-6f42c1?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Reporting-a770ef?style=for-the-badge)
-</p>
+
 
 ---
 
