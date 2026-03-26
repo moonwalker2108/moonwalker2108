@@ -67,7 +67,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7f3fbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jil-burton-dataanalyst)
 <a href="mailto:jil.burton88@gmail.com">
