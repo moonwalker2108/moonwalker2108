@@ -70,11 +70,15 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7f3fbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jil-burton-dataanalyst)
-<a href="mailto:jil.burton88@gmail.com">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/jil-burton-dataanalyst)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7f3fbf?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jil.burton88@gmail.com"">
     <img src="https://img.shields.io/badge/Email-Contact-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
 ---
 
 <p align="center">
