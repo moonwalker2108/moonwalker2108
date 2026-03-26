@@ -14,7 +14,7 @@
 ## ✨ About Me
 
 💜 Healthcare-focused Data Analyst  
-📊 Skilled in SQL, Tableau, Excel, Power BI, Python  
+📊 Skilled in SQL, Power BI, DAX, Excel, Tableau, and Python 
 🏥 Passionate about improving patient outcomes through data  
 🚀 Building real-world healthcare analytics projects  
 
@@ -35,10 +35,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Data%20Querying-6f42c1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Excel-Reporting-7c4dff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-Data%20Modeling-8b5cf6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Healthcare-Analytics-9d6bff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data-Insights-c7a4ff?style=for-the-badge"/>
 </p>
-<p align="center">
 
 
 ---
@@ -54,8 +54,8 @@
 ---
 
 ### 📈 Healthcare KPI Dashboard
-⭐ Developed KPI tracking dashboard  
-📊 Highlighted trends in patient and operational data  
+⭐ Built KPI dashboards using Power BI and DAX  
+📊 Created calculated measures to track performance trends and business insights
 
 🔗 **[View Portfolio](https://github.com/moonwalker2108/jilburtonDA)**  
 
