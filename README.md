@@ -3,25 +3,26 @@
 </p>
 
 <h1 align="center">💜 Hi, I'm Jil Burton</h1>
-<h3 align="center">Healthcare Data Analyst | SQL • Tableau • Python</h3>
+<h3 align="center">Healthcare Data Analyst</h3>
+<p align="center"><strong>SQL • Tableau • Python</strong></p>
 
 <p align="center">
-  📊 Turning healthcare data into actionable insights that improve outcomes & reduce costs
+  Turning healthcare data into actionable insights that improve outcomes, reduce costs, and support better decisions.
 </p>
 
 ---
 
-## ✨ About Me
+<h2 align="center">✨ About Me</h2>
 
 💜 Healthcare-focused Data Analyst  
-📊 Skilled in SQL, Power BI, DAX, Excel, Tableau, and Python 
+📊 Skilled in SQL, Power BI, DAX, Excel, Tableau, and Python  
 🏥 Passionate about improving patient outcomes through data  
 🚀 Building real-world healthcare analytics projects  
 
 ---
 
   
-## 🛠️ Tools & Technologies
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <p align="center">
   <img src="python.png" width="48"/>
@@ -38,10 +39,9 @@
   <img src="https://img.shields.io/badge/Data-Insights-c7a4ff?style=for-the-badge"/>
 </p>
 
-
 ---
 
-## 📊 Featured Projects
+<h2 align="center">📊 Featured Projects</h2>
 
 ### 🏥 Medicare Claims & Denial Analysis
 ⭐ Identified denial trends and revenue impact  
