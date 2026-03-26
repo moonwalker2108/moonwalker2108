@@ -26,15 +26,18 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-7F3FBF?style=for-the-badge&logo=tableau&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Power%20BI-7F3FBF?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://skillicons.dev/icons?i=python,github" /><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
 </p>
 
-
+<p align="center">
+  Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
+</p>
+<p align="center">
 ![SQL](https://img.shields.io/badge/SQL-Analytics-6f42c1?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Reporting-a770ef?style=for-the-badge)
+</p>
 
 ---
 
