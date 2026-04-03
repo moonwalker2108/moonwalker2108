@@ -47,7 +47,7 @@
 ⭐ Identified denial trends and revenue impact  
 📈 Built interactive dashboard for healthcare insights  
 
-🔗 **[View Portfolio](https://github.com/moonwalker2108/jilburtonDA)**  
+🔗 **[View Medicare Claims Project](https://github.com/moonwalker2108/jil-portfolio/tree/main/01-medicare-claims-denial)** | 📊 **[Live Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 ---
 
