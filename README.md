@@ -44,10 +44,13 @@
 <h2 align="center">📊 Featured Projects</h2>
 
 ### 🏥 Medicare Claims & Denial Analysis
-⭐ Identified denial trends and revenue impact  
-📈 Built interactive dashboard for healthcare insights  
 
-🔗 **[View Medicare Claims Project](https://github.com/moonwalker2108/jil-portfolio/tree/main/01-medicare-claims-denial)** | 📊 **[Live Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+⭐ Identified denial trends and revenue impact
+
+📈 Built interactive dashboard for healthcare insights
+
+🔗 **[View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-1-medicare-denials)** | 📊 **[Live Dashboard](https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 
 ---
 
