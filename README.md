@@ -54,11 +54,12 @@
 
 ---
 
-### 📈 Healthcare KPI Dashboard
-⭐ Built KPI dashboards using Power BI and DAX  
-📊 Created calculated measures to track performance trends and business insights
+### 📈 Revenue-Cycle KPI Report
 
-🔗 **[View Portfolio](https://github.com/moonwalker2108/jilburtonDA)**  
+⭐ Built KPI tracking system using Power BI, Excel, DAX, and SQL  
+📊 Created calculated measures to track revenue cycle performance and cash flow trends  
+🔗 **[View Full Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle)** | 📊 **[Download Power BI](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/Revenue_cycle_KPI.pbix)** • **[Download Excel](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.xlsx)**
+
 
 ---
 
