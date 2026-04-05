@@ -15,9 +15,11 @@
 </p>
 
 <p align="center">
-  Turning healthcare data into actionable insights that improve outcomes, reduce costs, and support better decisions.
+Turning healthcare data into insights that reduce costs, improve revenue, and drive better patient outcomes.
 </p>
-
+<p align="center">
+💡 Experience with claims data, revenue cycle analytics, and KPI dashboard development  
+</p>
 <p align="center">⋆｡°✩</p>
 
 <h2 align="center">✨ About Me</h2>
@@ -29,6 +31,7 @@
   Building real-world healthcare analytics projects
 </p>
 
+<p align="center">📌 Experience working with structured datasets to analyze claims, financial performance, and patient behavior</p>
 <p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
 
 <h2 align="center">🛠️ Tools & Technologies</h2>
@@ -154,7 +157,7 @@ Built an interactive Power BI dashboard to identify high-risk claims insights an
 - Supported smarter claims management decisions  
 
 🔗 [View Project](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-5-claims-risk-analytics-dashboard)  
-📁 [Download PBIX](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.pbix)
+📁 [Download PBIX](https://github.com/moonwalker2108/jil-portfolio/project-5-claims-risk-analytics-dashboard/claims_risk_dashboard.pbix)
 
 <p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
 
