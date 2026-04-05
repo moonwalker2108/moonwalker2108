@@ -114,7 +114,8 @@ Developed an interactive KPI dashboard to track financial performance across the
 - Enabled faster decision-making with centralized KPI reporting  
 
 🔗 [View Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle)  
-📊 [View Dashboard Preview](https://raw.githubusercontent.com/moonwalker2108/jilburtonDA/main/jil-portfolio/project-2-revenue-cycle/kpi-dashboard.png)
+📁 [View Dataset (CSV)](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.csv)  
+📊 [View Excel Analysis](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/RevenueCycle_KPI.xlsx)
 
 
 ---
