@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
-
+---
 <h2 align="center">📊 Featured Projects</h2>
 
 ### 📉 Medicare Claims & Denials Analysis  
