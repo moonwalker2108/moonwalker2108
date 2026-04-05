@@ -158,8 +158,7 @@ Built an interactive Power BI dashboard to identify high-risk claims insights an
 - Supported smarter claims management decisions  
 
 🔗 [View Project](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-5-claims-risk-analytics-dashboard)  
-📁 [Download PBIX](https://github.com/moonwalker2108/jil-portfolio/project-5-claims-risk-analytics-dashboard/claims_risk_dashboard.pbix)
-
+📁 [Download PBIX](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-5-claims-risk-analytics-dashboard/claims_risk_dashboard.pbix)
 <p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
 
 
