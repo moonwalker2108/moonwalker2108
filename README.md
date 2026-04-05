@@ -22,22 +22,53 @@
 ---
 
   
-<h2 align="center">🛠️ Tools & Technologies</h2>
+<h2 align="center"> 🛠️ Tools & Technologies</h2>
 
-<p align="center">
-  <img src="python.png" width="48"/>
-  <img src="github.png" width="48"/>
-  <img src="tableau.png" width="48"/>
-  <img src="powerbi.png" width="48"/>
+### 📊 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Data%20Querying-6f42c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-Reporting-7c4dff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DAX-Data%20Modeling-8b5cf6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Healthcare-Analytics-9d6bff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data-Insights-c7a4ff?style=for-the-badge"/>
+### 🤖 Programming & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
+
+### 🔄 Data Processing & Modeling
+<p>
+  <img src="https://img.shields.io/badge/Power%20Query-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-6A1B9A?style=for-the-badge" />
+</p>
+
+### 🏥 Healthcare & Domain Knowledge
+<p>
+  <img src="https://img.shields.io/badge/Healthcare%20Analytics-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Revenue%20Cycle-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claims%20Analysis-00897B?style=for-the-badge" />
+</p>
+
+### 🧠 Project & Collaboration Tools
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smartsheet-1B5E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+</p>
+
+### 🛠️ Development & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 ---
 
@@ -89,4 +120,3 @@
 
 <p align="center">
   💜 Turning data into decisions that matter
-</p>
