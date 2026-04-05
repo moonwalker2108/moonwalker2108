@@ -86,8 +86,13 @@
 <h2 align="center">📊 Featured Projects</h2>
 
 ### 📉 Medicare Claims & Denials Analysis  
-⭐ Identified denial trends and revenue impact  
+⭐ Identified and Analyzed Medicare claims data to uncover denial patterns and revenue loss drivers and impact. 
 Built an interactive dashboard for healthcare insights  
+
+**✨ Impact**
+- Identified top denial categories contributing to lost reimbursement  
+- Reduced analysis time by ~40% using structured SQL queries  
+- Highlighted trends in claim rejections to support process improvements  
 
 <p>
   <strong><a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-1-medicare-denials">View Full Case Study</a></strong> • <strong><a href="https://public.tableau.com/views/Medicare_Denials_Dashboard/MedicareDenialsOverview?:language=en-US&:display_count=n&:origin=viz_share_link">Live Dashboard</a></strong>
@@ -98,40 +103,58 @@ Built an interactive dashboard for healthcare insights
 ### 📈 Revenue Cycle Performance Analysis  
 ⭐ Tracked DNFB, discharge-to-bill lag, and A/R aging  
 Built KPI reporting workflows using Excel and SQL  
+Developed an interactive KPI dashboard to track financial performance across the revenue cycle.
 
-<p>
-  <strong><a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle-performance">View Full Case Study</a></strong> • <strong><a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle-performance">View Portfolio Project</a></strong>
-</p>
+**✨ Impact**
+- Built executive-level dashboard tracking Total Paid, Avg Claim Cost, and claim volume  
+- Improved visibility into revenue trends and operational inefficiencies  
+- Enabled faster decision-making with centralized KPI reporting  
+
+🔗 [View Case Study](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-2-revenue-cycle)  
+📊 [View Dashboard Preview](https://raw.githubusercontent.com/moonwalker2108/jilburtonDA/main/jil-portfolio/project-2-revenue-cycle/kpi-dashboard.png)
+
 
 ---
 
 ### 🤖 Patient Churn Prediction Model  
-⭐ Built a machine learning model for patient retention  
+⭐ Built a machine learning model to identify patients at risk of churn. 
 Identified high-risk patients using predictive analytics  
 
-<p>
-  <strong><a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-3-churn">View Full Case Study</a></strong>
-</p>
 
+**✨ Impact**
+- Predicted high-risk patients to support proactive outreach  
+- Engineered features based on engagement and utilization trends  
+- Demonstrated how predictive analytics improves retention strategies  
+
+🔗 **[View Project](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-3-churn)  
+📊 [View Model Preview](https://raw.githubusercontent.com/moonwalker2108/jilburtonDA/main/jil-portfolio/project-3-churn/churn-demo.png)**
 ---
 
 ### 💰 Financial Performance Analysis  
-⭐ Evaluated profit trends across segments and products  
-Identified high-margin and low-performing business areas  
+⭐ Analyzed financial data to identify profit trends and performance drivers.
 
-<p>
-  <strong><a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-4-financial-performance-analysis">View Full Case Study</a></strong> • <strong><a href="https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-4-financial-performance-analysis/festman-financial-report.pbix">Download PBIX</a></strong>
-</p>
+**✨ Impact**
+- Identified high vs low-performing segments  
+- Delivered insights into profit margins and revenue drivers  
+- Supported data-driven business optimization decisions  
+
+🔗 [View Project](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-4-financial-performance-analysis)  
+📁 [Download PBIX](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-4-financial-performance-analysis/festman-financial-report.pbix)  
+📁 [Download Dataset](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-4-financial-performance-analysis/festman-profit-margin-by-segment-product.csv)
 
 ---
 
-### 🏥 Healthcare Claims & Risk Dashboard  
-⭐ Analyzed patient risk trends and cost drivers  
-Built an interactive Power BI dashboard for claims insights  
+### ⚕️ Healthcare Claims & Risk Dashboard  
+⭐ Analyzed patient risk trends and cost drivers    
+Built an interactive Power BI dashboard to identify high-risk claims insights and support cost control strategies.
 
-<p>
-  <strong><a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-5-claims-risk-analytics-dashboard">View Full Case Study</a></strong> • <strong><a href="https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-5-claims-risk-analytics-dashboard/claims_risk_dashboard.pbix">Download PBIX</a></strong>
-</p>
+**✨ Impact**
+- Flagged high-risk claims to reduce financial exposure  
+- Improved visibility into claim risk patterns  
+- Supported smarter claims management decisions  
+
+🔗 [View Project](https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio/project-5-claims-risk-analytics-dashboard)  
+📁 [Download PBIX](https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-5-claims-risk-analytics-dashboard/claims-risk-dashboard.pbix)
 
 <p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
 
@@ -160,3 +183,8 @@ Built an interactive Power BI dashboard for claims insights
 <p align="center">
   💜 Turning data into decisions that matter
 </p>
+
+
+
+
+
