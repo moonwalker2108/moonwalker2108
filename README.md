@@ -162,13 +162,44 @@ Built an interactive Power BI dashboard to identify high-risk claims insights an
 <p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
 
 
+<div align="center">
+
+## ✍🏽 Writing Samples
+
+<p>
+Demonstrating the ability to translate data into actionable business insights across healthcare analytics, revenue cycle performance, and predictive modeling.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+📄 <a href="https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-1-medicare-denials/case-study.md"><b>Medicare Claims & Denials Analysis</b></a>  
+<i>Revenue leakage, denial trends, and reimbursement optimization</i>
+
+<br><br>
+
+📄 <a href="https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-2-revenue-cycle/case-study.md"><b>Healthcare Revenue Cycle KPI Analysis</b></a>  
+<i>Financial performance, claim cost trends, and KPI monitoring</i>
+
+<br><br>
+
+📄 <a href="https://github.com/moonwalker2108/jilburtonDA/blob/main/jil-portfolio/project-3-churn/case-study.md"><b>Patient Churn Prediction Analysis</b></a>  
+<i>Predictive modeling, patient retention, and risk identification</i>
+
+</div>
+
+<p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
+
 <p align="center">
   <a href="https://github.com/moonwalker2108/jilburtonDA/tree/main/jil-portfolio">
     <img src="https://img.shields.io/badge/View%20Complete%20Portfolio-6D4AFF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">──────── ⋆⋅☆⋅⋆ ────────</p>
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
